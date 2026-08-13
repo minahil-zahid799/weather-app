@@ -26,7 +26,9 @@ Ensure you have **Node.js** installed on your system.
 ### Installation
 
 1. Clone the repository:
-  gh repo clone minahil-zahid799/Weather-App
+  ```bash
+   
+   ```
 
 2. Navigate into the project directory:
    ```bash
